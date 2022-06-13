@@ -219,16 +219,16 @@ ggplot(combined_data, aes(TotalMinutesAsleep, col = Minutes)) +
 The Bella beat technology has been designed to inform and inspire women all over the world, and is focused on smart health products for women. From the fitbit data set, we understand that.  
 
  1. Most users spend most of there time inactive or sitting in offices.
- 2. Most users turn off their devices before they go to bed, hence collecting accurate sleep        Information might be difficult.
+ 2. Most users turn off their devices before they go to bed, hence collecting accurate sleep Information might be difficult.
  3. The more time you spend in bed the more sleep you get.
- 4. On the average most users are getting a good amount of sleep between 6 -10 hours daily,hence  some other factors will account for stress levels and not just their level of physical          activity.  
+ 4. On the average most users are getting a good amount of sleep between 6 -10 hours daily,hence some other factors will account for stress levels and not just their       level of physical activity.  
  
  This data set does not account for the different ages of the users, which is a factor to consider in the kind of physical activity they carry out daily, there are various kinds of stress that can affect sleep time and activity levels.  
 
 Some Recommendations..   
 
- 1. Bella beat product should be targeted at the more sedentary users, individuals that spend       most of their time in offices or generally inactive.
- 2. Users should be encouraged to use their devices even while they sleep, to better understand     their sleep habits, user devices can be made to remove any form of discomfort while             sleeping.  
- 3. An on boarding session that sensitizes users on the benefits of the devices and keeping         track of their activities as well as maintaining a healthy lifestyle, would encourage users     to stay active and use the products.  
+ 1. Bella beat product should be targeted at the more sedentary users, individuals that spend most of their time in offices or generally inactive.
+ 2. Users should be encouraged to use their devices even while they sleep, to better understand their sleep habits, user devices can be made to remove any form of         discomfort while sleeping.  
+ 3. An on boarding session that sensitizes users on the benefits of the devices and keeping track of their activities as well as maintaining a healthy                     lifestyle, would encourage users to stay active and use the products.  
  
 #### Thanks for reading, your comments would be appreciated.
