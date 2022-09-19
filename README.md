@@ -10,3 +10,4 @@ Analyze smart device usage data, and trends in order to gain insight on how cust
 For this project, [fitbit fitness tracker data](https://www.kaggle.com/arashnic/fitbit) made available through [Mobius](https://www.kaggle.com/arashnic) was used. This Kaggle data set contains personal fitness tracker from thirty fitbit users. Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and heart rate that can be used to explore users’ habits.
 
 The R programming language was used on this project.
+To better view this document visit [Kaggle document](https://www.kaggle.com/code/nathanamemode/bella-beat-case-study)
